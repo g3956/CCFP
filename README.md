@@ -26,3 +26,15 @@ cd fastreid/evaluation/rank_cylib; make all
 |       +-- query
 |       +-- boudning_box_test
 </pre>
+
+## Train and test
+
+To train with our proposed framework, simply run
+```bash
+sh run.sh
+```
+for training market-sct and run
+```bash
+sh run_d.sh
+```
+or training duke-sct
