@@ -8,6 +8,7 @@ Codes of ACM MM 2021 paper: Cross-Camera Feature Prediction for Intra-Camera Sup
 1. Download Market-1501 and DukeMTMC-reID
 2. Split Market-1501 and DukeMTMC-reID to Market-sct and DukeMTMC-sct according to the file names in the market-sct.txt and duke_sct.txt
 3. Make new directories in data and organize them as follows:
+<pre>
 +-- data
 |   +-- market
 |       +-- bounding_box_train_sct
@@ -17,3 +18,4 @@ Codes of ACM MM 2021 paper: Cross-Camera Feature Prediction for Intra-Camera Sup
 |       +-- bounding_box_train_sct
 |       +-- query
 |       +-- boudning_box_test
+</pre>
