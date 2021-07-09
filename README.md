@@ -4,6 +4,7 @@ Codes of ACM MM 2021 paper: Cross-Camera Feature Prediction for Intra-Camera Sup
 ## Environment
 
 The code is based on [fastreid](https://github.com/JDAI-CV/fast-reid). See [INSTALL.md](https://github.com/JDAI-CV/fast-reid/blob/master/INSTALL.md).
+
 For Compiling with cython to accelerate evalution
 ```bash
 cd fastreid/evaluation/rank_cylib; make all
