@@ -40,7 +40,7 @@ sh run_d.sh
 
 ## Experiments
 
-[image](https://github.com/g3956/Cross-Camera-Feature-Prediction-for-Intra-Camera-Supervised-Person-Re-identification-across-Distant-/blob/main/results.png)
+![image](https://github.com/g3956/Cross-Camera-Feature-Prediction-for-Intra-Camera-Supervised-Person-Re-identification-across-Distant-/blob/main/results.png)
 
 
 ## Citation
