@@ -29,12 +29,11 @@ cd fastreid/evaluation/rank_cylib; make all
 
 ## Train and test
 
-To train with our proposed framework, simply run
+To train market-sct with our proposed framework, simply run
 ```bash
 sh run.sh
 ```
-for training market-sct and run
+To train duke-sct with our proposed framework, simply run
 ```bash
 sh run_d.sh
 ```
-or training duke-sct
