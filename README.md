@@ -30,11 +30,11 @@ cd fastreid/evaluation/rank_cylib; make all
 
 ## Train and test
 
-To train market-sct with our proposed framework, simply run
+To train market-sct with CCFP, simply run
 ```bash
 sh run.sh
 ```
-To train duke-sct with our proposed framework, simply run
+To train duke-sct with CCFP, simply run
 ```bash
 sh run_d.sh
 ```
