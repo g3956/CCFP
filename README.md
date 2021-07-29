@@ -1,5 +1,5 @@
 # Cross Camera Feature Prediction for Intra Camera Supervised Person Re identification across Distant Scenes
-Codes of ACM MM 2021 paper: Cross-Camera Feature Prediction for Intra-Camera Supervised Person Re-identification across Distant Scenes. 
+The official implementation for the Cross-Camera Feature Prediction for Intra-Camera Supervised Person Re-identification across Distant Scenes which is accepted by ACMMM-2021.
 
 ## Environment
 
