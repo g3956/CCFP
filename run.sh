@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python tools/train_net.py --config-file configs/Market1501/AGW_R50.yml

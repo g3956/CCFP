@@ -1,0 +1,10 @@
+_BASE_: ../Base-AGW.yml
+
+DATASETS:
+  NAMES: ("Market1501",)
+  TESTS: ("Market1501",)
+
+DATALOADER:
+  NUM_ID: 16
+
+OUTPUT_DIR: logs/CCFT_Market

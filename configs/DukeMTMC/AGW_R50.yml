@@ -1,0 +1,12 @@
+_BASE_: ../Base-AGW.yml
+
+
+DATASETS:
+  NAMES: ("DukeMTMC",)
+  TESTS: ("DukeMTMC",)
+  NUM_CAMERAS: 8
+
+DATALOADER:
+  NUM_ID: 8
+
+OUTPUT_DIR: logs/CCFP_Duke
