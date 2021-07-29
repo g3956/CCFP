@@ -90,7 +90,7 @@ _C.MODEL.Transformer.dim_feedforward = 2048
 _C.MODEL.Transformer.enc_layers = 6
 _C.MODEL.Transformer.dec_layers = 6
 _C.MODEL.Transformer.pre_norm = True
-_C.MODEL.Transformer.num_patch = 6
+_C.MODEL.Transformer.num_patch = 12
 
 # ---------------------------------------------------------------------------- #
 # REID positional encoer options
