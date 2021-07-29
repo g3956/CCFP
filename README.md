@@ -14,7 +14,10 @@ cd fastreid/evaluation/rank_cylib; make all
 
 1. Download Market-1501 and DukeMTMC-reID
 2. Split Market-1501 and DukeMTMC-reID to Market-sct and DukeMTMC-sct according to the file names in the market_sct.txt and duke_sct.txt
-3. Make new directories in data and organize them as follows:
+3. ```bash
+vim fastreid/data/build.py
+```
+4. Make new directories in data and organize them as follows:
 <pre>
 +-- data
 |   +-- market
