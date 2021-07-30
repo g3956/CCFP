@@ -1,5 +1,5 @@
 # Cross-Camera Feature Prediction (CCFP)
-The official implementation for the Cross-Camera Feature Prediction for Intra-Camera Supervised Person Re-identification across Distant Scenes which is accepted by ACMMM-2021.
+The official implementation for the [Cross-Camera Feature Prediction for Intra-Camera Supervised Person Re-identification across Distant Scenes](https://arxiv.org/abs/2107.13904) which is accepted by ACMMM-2021.
 
 ## Environment
 
