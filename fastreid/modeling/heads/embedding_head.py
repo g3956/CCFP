@@ -40,8 +40,6 @@ class EmbeddingHead(nn.Module):
         self.bottleneck_camera = nn.ModuleList(torch.nn.BatchNorm2d(2048) for _ in range(self.num_cameras))
         self.bottleneck_camera_map = nn.ModuleList(torch.nn.BatchNorm2d(2048) for _ in range(self.num_cameras))
 
-        self.bottleneck_map = get_norm(norm_type, feat_dim, bias_freeze=True)
-
         # classification layer
         # fmt: off
         if cls_type == 'linear':          self.classifier = nn.Linear(feat_dim, num_classes, bias=False)
