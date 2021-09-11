@@ -47,6 +47,12 @@ sh run_d.sh
 ## Citation
 
 If you find this code useful, please kindly cite the following paper:
-
-
+<pre>
+@article{ge2021cross,
+  title={Cross-Camera Feature Prediction for Intra-Camera Supervised Person Re-identification across Distant Scenes},
+  author={Ge, Wenhang and Pan, Chunyan and Wu, Ancong and Zheng, Hongwei and Zheng, Wei-Shi},
+  journal={arXiv preprint arXiv:2107.13904},
+  year={2021}
+}
+</pre>
 
