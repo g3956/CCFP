@@ -7,4 +7,4 @@ DATASETS:
 DATALOADER:
   NUM_ID: 16
 
-OUTPUT_DIR: logs/CCFT_Market
+OUTPUT_DIR: logs/CCFP_Market
