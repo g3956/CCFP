@@ -48,7 +48,7 @@ class EmbeddingHead(nn.Module):
 
         self.bottleneck.apply(weights_init_kaiming)
         self.classifier.apply(weights_init_classifier)
-        self.bottleneck_map.apply(weights_init_kaiming)
+
         for bn in self.bottleneck_camera:
             bn.apply(weights_init_kaiming)
         for bn in self.bottleneck_camera_map:
